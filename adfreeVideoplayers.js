@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         adfreeVideoplayers
 // @namespace    https://raw.githubusercontent.com/Random-accC/adfreeVideoplayers/
-// @downloadURL  https://raw.githubusercontent.com/Random-accC/adfreeVideoplayers/adfreeVideoplayers.js
-// @updateURL    https://raw.githubusercontent.com/Random-accC/adfreeVideoplayers/adfreeVideoplayers.js
+// @downloadURL  https://raw.githubusercontent.com/Random-accC/adfreeVideoplayers/master/adfreeVideoplayers.js
+// @updateURL    https://raw.githubusercontent.com/Random-accC/adfreeVideoplayers/master/adfreeVideoplayers.js
 // @version      0.3
 // @description  Removes flash (object) video players from a bunch of known websites and replaces them with an ad-free HTML5 player.
 // @author       Random-accC
